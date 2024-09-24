@@ -1,4 +1,16 @@
-<h2 align="left">- Java Developer at @Basis</h2>
+<h2 align="left">👋 Hi there, welcome to my Github profile</h2>
+
+###
+
+<p align="left">My name is João Victor and i'm a Java Developer, from AL, Brazil 🇧🇷</p>
+
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<h5 align="left">Java Developer at @Basis</h5>
 
 ###
 
